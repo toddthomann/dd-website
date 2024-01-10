@@ -38,11 +38,11 @@
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title {
-    background-color: rgba(0,0,0,.5);
+    background-color: rgba(0,0,0,.6);
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title:focus, .h-tile__item:not(.has-placeholder) .h-tile__title:hover {
-    background-color: rgba(0,0,0,.3);
+    background-color: rgba(0,0,0,.4);
 }
 
 /* BTN styles */
