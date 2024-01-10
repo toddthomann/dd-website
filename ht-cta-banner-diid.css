@@ -81,8 +81,8 @@
 /* Styles for Do It In Durham logo */
 
 .ht-logo-svg {
-    bottom: 0;
     position: absolute;
+    bottom: 0;
     right: 0;
     margin-bottom: 40px;
     margin-right: 30px;
