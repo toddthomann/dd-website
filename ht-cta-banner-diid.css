@@ -52,6 +52,7 @@
     position: absolute;
     bottom: 0;
     margin-bottom: 0px;
+    opacity: .8;
     right: 0;
 }
 
@@ -67,7 +68,7 @@
     background: none;
     background-size: contain;
     vertical-align: middle;
-    opacity: .8;
+    opacity: .6;
     margin: -.3rem 0 -.1rem .5rem;
 }
 
