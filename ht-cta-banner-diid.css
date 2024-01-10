@@ -37,6 +37,14 @@
     margin-left: -5px;
 }
 
+.h-tile__item:not(.has-placeholder) .h-tile__title {
+    background-color: rgba(0,0,0,.5);
+}
+
+.h-tile__item:not(.has-placeholder) .h-tile__title:focus, .h-tile__item:not(.has-placeholder) .h-tile__title:hover {
+    background-color: rgba(0,0,0,.1);
+}
+
 /* BTN styles */
 
 .h-tile.ht-cta-banner .btn {
