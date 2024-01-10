@@ -9,8 +9,8 @@
 }
 
 .ht-cta-banner .h-tile__img {
-    min-height: 10%;
-    width: 10%;
+    min-height: 100%;
+    width: 100%;
 }
 
 .ht-cta-banner .h-tile__title {
