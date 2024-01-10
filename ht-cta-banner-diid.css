@@ -9,8 +9,8 @@
 }
 
 .ht-cta-banner .h-tile__img {
-    min-height: 100%;
-    width: 100%;
+    min-height: 10%;
+    width: 10%;
 }
 
 .ht-cta-banner .h-tile__title {
@@ -68,7 +68,7 @@
     background: none;
     background-size: contain;
     vertical-align: middle;
-    opacity: .1;
+    opacity: .8;
     margin: -.3rem 0 -.1rem .5rem;
 }
 
