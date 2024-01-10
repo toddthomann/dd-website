@@ -20,7 +20,7 @@
 .ht-cta-banner .h-tile__title {
     padding: 0rem;
     margin-left: -4px;
-    margin-top: -54px;
+    margin-top: -5px;
     text-transform: uppercase;
     font-size: 50px;
     line-height: 0.8;
@@ -29,9 +29,11 @@
 
 .ht-cta-banner .h-tile__linktext {
     text-transform: uppercase;
-    font-size: 50px;
+    font-size: 65px;
     line-height: 0.8;
     text-align: left;
+    position: absolute;
+    top: 0;
 }
 
 /* BTN styles */
@@ -47,6 +49,10 @@
     background: #8ED6D1;
     border-color: #8ED6D1;
     color: #131313;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0px;
+    right: 0;
 }
 
 .ht-cta-banner a:hover .btn.h-tile__cta {
