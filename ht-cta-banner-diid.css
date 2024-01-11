@@ -33,6 +33,7 @@
     position: absolute;
     top: 0;
     margin-left: -5px;
+    padding-right: 10%;
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title {
