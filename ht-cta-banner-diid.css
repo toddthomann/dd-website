@@ -1,23 +1,23 @@
 /* Mod for Full-Width Widget with HT-CTA-BANNER class to make less dominating and give greater visual affordance */
 
-.h-tile.ht-cta-banner {
+.h-tile.ht-cta-banner-diid {
     max-width: 1200px;
 }
 
-.ht-cta-banner .h-tile__item {
+.ht-cta-banner-diid .h-tile__item {
     height: 15em;
 }
 
-.ht-cta-banner .h-tile__img {
+.ht-cta-banner-diid .h-tile__img {
     min-height: 100%;
     width: 100%;
 }
 
-.ht-cta-banner .h-tile__title {
+.ht-cta-banner-diid .h-tile__title {
     flex-direction: column; /* Changing the flex direction so I can stack the two SPANs I've squeezed into the A element */
 }
 
-.ht-cta-banner .h-tile__title {
+.ht-cta-banner-diid .h-tile__title {
     padding: 0rem;
     margin-left: -5px;
     margin-top: -7px;
@@ -25,7 +25,7 @@
     text-align: left;
 }
 
-.ht-cta-banner .h-tile__linktext {
+.ht-cta-banner-diid .h-tile__linktext {
     text-transform: uppercase;
     font-size: 65px;
     line-height: 0.9;
@@ -45,12 +45,12 @@
 
 /* BTN styles */
 
-.h-tile.ht-cta-banner .btn {
+.h-tile.ht-cta-banner-diid .btn {
     font-family: Plex Sans,Helvetica,Verdana,Segoe,sans-serif;
     font-weight: 600;
 }
 
-.ht-cta-banner .btn.h-tile__cta {
+.ht-cta-banner-diid .btn.h-tile__cta {
     display: block;
     margin: 1em auto;
     background: #8ED6D1;
@@ -62,11 +62,11 @@
     right: 0;
 }
 
-.ht-cta-banner a:hover .btn.h-tile__cta {
+.ht-cta-banner-diid a:hover .btn.h-tile__cta {
     background: #c0ffff;
 }
 
-.ht-cta-banner .btn.h-tile__cta::after {
+.ht-cta-banner-diid .btn.h-tile__cta::after {
     content: "\000BB";
     display: inline-block;
     width: 1rem;
