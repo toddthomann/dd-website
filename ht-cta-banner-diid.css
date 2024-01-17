@@ -49,7 +49,7 @@
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title:focus, .h-tile__item:not(.has-placeholder) .h-tile__title:hover {
-    background-color: rgba(0,0,0,.4);
+    background-color: rgba(0,0,0,.2);
 }
 
 /* BTN styles */
