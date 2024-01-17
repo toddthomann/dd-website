@@ -45,11 +45,11 @@
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title {
-    background-color: rgba(0,0,0,.4);
+    background-color: rgba(0,0,0,.5);
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title:focus, .h-tile__item:not(.has-placeholder) .h-tile__title:hover {
-    background-color: rgba(0,0,0,.2);
+    background-color: rgba(0,0,0,.3);
 }
 
 /* BTN styles */
