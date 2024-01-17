@@ -45,7 +45,7 @@
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title {
-    background-color: rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,.4);
 }
 
 .h-tile__item:not(.has-placeholder) .h-tile__title:focus, .h-tile__item:not(.has-placeholder) .h-tile__title:hover {
