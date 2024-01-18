@@ -44,6 +44,12 @@
   }
 }
 
+@media screen and (max-width: 370px) {
+  .ht-cta-banner-diid .h-tile__linktext {
+     font-size: 40px !important;
+  }
+}
+
 .h-tile__item:not(.has-placeholder) .h-tile__title {
     background-color: rgba(0,0,0,.5);
 }
