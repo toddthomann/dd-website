@@ -109,10 +109,10 @@ CTA banner code Github
 /* Styles for Do It In Durham logo */
 
 .ht-logo-svg-diid {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    margin-bottom: 40px;
-    margin-right: 30px;
+    position: absolute !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    margin-bottom: 40px !important;
+    margin-right: 30px !important;
 
 }
