@@ -88,10 +88,6 @@ CTA banner code Github
     border-radius: 0px;
 }
 
-.diid-cta-banner a:hover .btn.h-tile__cta {
-    background: #c0ffff;
-}
-
 
 .diid-cta-banner .btn.h-tile__cta::after {
     content: "\000BB";
