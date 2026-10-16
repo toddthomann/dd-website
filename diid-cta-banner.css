@@ -9,6 +9,7 @@ CTA banner code Github
 
 .diid-cta-banner .h-tile__item {
     height: 15em;
+    border-radius: 12px;
 }
 
 .diid-cta-banner .h-tile__img {
