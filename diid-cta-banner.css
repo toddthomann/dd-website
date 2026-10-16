@@ -83,6 +83,9 @@
     margin-bottom: 0px;
     right: 0;
 }
+.btn.h-tile__cta {
+    border-radius: 0px;
+}
 
 .diid-cta-banner a:hover .btn.h-tile__cta {
     background: #c0ffff;
