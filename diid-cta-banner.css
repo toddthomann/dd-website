@@ -83,10 +83,12 @@
     bottom: 0;
     margin-bottom: 0px;
     right: 0;
+    border-radius: 0px !important;
 }
 
 .diid-cta-banner a:hover .btn.h-tile__cta {
     background: #c0ffff;
+    border-radius: 0px !important;
 }
 
 .diid-cta-banner .btn.h-tile__cta::after {
@@ -99,6 +101,7 @@
     vertical-align: middle;
     opacity: .8;
     margin: -.3rem 0 -.1rem .5rem;
+    border-radius: 0px !important;
 }
 
 /* Styles for Do It In Durham logo */
