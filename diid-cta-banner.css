@@ -71,6 +71,7 @@
     font-family: Plex Sans,Helvetica,Verdana,Segoe,sans-serif;
     font-weight: 600;
     border-radius: 0px;
+    display: none;
 }
 
 .diid-cta-banner .btn.h-tile__cta {
