@@ -67,38 +67,7 @@
 
 /* BTN styles */
 
-.h-tile.diid-cta-banner .btn {
-    font-family: Plex Sans,Helvetica,Verdana,Segoe,sans-serif;
-    font-weight: 600;
-}
 
-.diid-cta-banner .btn.h-tile__cta {
-    display: block;
-    margin: 1em auto;
-    background: #8ED6D1;
-    border-color: #8ED6D1;
-    color: #131313;
-    position: absolute;
-    bottom: 0;
-    margin-bottom: 0px;
-    right: 0;
-}
-
-.diid-cta-banner a:hover .btn.h-tile__cta {
-    background: #c0ffff;
-}
-
-.diid-cta-banner .btn.h-tile__cta::after {
-    content: "\000BB";
-    display: inline-block;
-    width: 1rem;
-    height: 1rem;
-    background: none;
-    background-size: contain;
-    vertical-align: middle;
-    opacity: .8;
-    margin: -.3rem 0 -.1rem .5rem;
-}
 
 /* Styles for Do It In Durham logo */
 
