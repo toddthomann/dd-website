@@ -57,6 +57,13 @@ CTA banner code Github
   .diid-cta-banner .h-tile__linktext {
      font-size: 60px !important;
   }
+    
+}
+
+@media screen and (min-width: 750px) {
+  .diid-cta-banner .h-tile__linktext {
+     font-size: 60px !important;
+  }
 
 .diid-cta-banner .h-tile__img {
     position: absolute;
