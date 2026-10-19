@@ -11,9 +11,16 @@ CTA banner code Github
     height: 15em;
 }
 
+.diid-cta-banner .h-tile__bg {
+    width: 100%;
+    height: 100%;
+}
+
 .diid-cta-banner .h-tile__img {
-    min-height: 100%;
-    max-width: inherit;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
 }
 
 .diid-cta-banner .h-tile__title {
@@ -41,10 +48,6 @@ CTA banner code Github
     font-weight: 900 !important;
 }
 
-.h-tile__bg {
-    position: relative;
-}
-
 
 @media screen and (max-width: 450px) {
 .diid-cta-banner .h-tile__linktext {
@@ -60,24 +63,6 @@ CTA banner code Github
     
 }
 
-@media screen and (min-width: 750px) {
-  .diid-cta-banner .h-tile__linktext {
-     font-size: 60px !important;
-  }
-
-.diid-cta-banner .h-tile__img {
-    max-width: 100%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -28%);
-}
-
-.h-tile__bg {
-    position: relative;
-}
-    
-}
 
 @media screen and (max-width: 450px) {
   .diid-cta-banner .h-tile__linktext {
